@@ -1,0 +1,2 @@
+# Android-LCM
+Today everybody is hovering in the world of Android! Every person in this world has an Android phone in hands. Android powers hundreds of millions of mobile devices in more than 190 countries around the world. It's the largest installed base of any mobile platform and growing fast—every day another million users power up their Android devices for the first time and start looking for apps, games, and other digital content. The LAN messenger is an instant messaging application that allows safe and secure communication over a LAN.
